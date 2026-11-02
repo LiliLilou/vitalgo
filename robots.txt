@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lilililou.github.io/vitalgo/sitemap.xml
